@@ -63,9 +63,11 @@ public:
         for(int i=0; i<nums.size(); i++){
             //difference of mx-mn = n-1--> mn+n>mx
             //iterate until it will not get invalid and find maximum possible length of subarray
+            //let `j` point to the first element that is out of range -- `>= nums[i] + n
             while(j<nums.size() and nums[j]<nums[i]+n) j++;
+            //The length of this subarray is `j - i
             int len = j-i;
-            //subtract length from total to know how many nums should replace
+            //we need to replace n-len to make it it contineous
             ans = min(ans, n-len);
         }
         return ans;
