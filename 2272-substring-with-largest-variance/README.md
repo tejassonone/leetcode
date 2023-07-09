@@ -35,7 +35,9 @@ No letter occurs more than once in s, so the variance of every substring is 0.
 </ul>
 </div>
 
-##solution 1
+
+## Solution 1.
+
 ```cpp
 class Solution {
 public:
