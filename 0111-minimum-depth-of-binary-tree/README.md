@@ -9,16 +9,16 @@ Note: A leaf is a node with no children.
 </p>
 
 
-###Example 1
+##Example 1
 ```sh
 Input: root = [3,9,20,null,null,15,7]
 Output: 2
 ```
-###Example 2
+##Example 2
 ```sh
 Input: root = [2,null,3,null,4,null,5,null,6]
 Output: 5
-``
+```
 
 ## Solution 1.
 ```cpp
