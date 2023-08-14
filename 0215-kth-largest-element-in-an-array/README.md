@@ -20,3 +20,14 @@
 	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
 </div>
+
+Solution
+```cpp
+class Solution {
+public:
+    int findKthLargest(vector<int>& nums, int k) {
+        sort(nums.rbegin(), nums.rend());
+        return nums[k-1];
+    }
+};
+```
