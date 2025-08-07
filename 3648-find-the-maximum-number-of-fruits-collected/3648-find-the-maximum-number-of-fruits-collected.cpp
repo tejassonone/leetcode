@@ -33,7 +33,7 @@ public:
         // path for child 2
         res +=helper_tr(ft, 0, n-1, dp);
 
-        // path for child 2
+        // path for child 3
         res +=helper_bl(ft, n-1, 0, dp);
 
         return res;
