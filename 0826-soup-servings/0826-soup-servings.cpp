@@ -10,6 +10,11 @@ public:
     }
     double soupServings(int n) {
         // probability extimaly close to 1
+        // for(int i=5000; i<5500; i++){
+        //     vector<vector<double>> dp(i+1, vector<double>(i+1, -1));
+        //     cout<<i<<" - "<<helper(i, i, dp)<<endl;
+        // }
+        // return -1;
         if(n>5000) return 1;
         vector<vector<double>> dp(n+1, vector<double>(n+1, -1));
         return helper(n, n, dp);
