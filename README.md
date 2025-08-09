@@ -32,9 +32,18 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/tejassonone/leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/tejassonone/leetcode/tree/master/0826-soup-servings) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/tejassonone/leetcode/tree/master/0826-soup-servings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/tejassonone/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/tejassonone/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
