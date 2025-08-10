@@ -34,6 +34,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/tejassonone/leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/tejassonone/leetcode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/tejassonone/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -46,4 +47,20 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tejassonone/leetcode/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/tejassonone/leetcode/tree/master/0900-reordered-power-of-2) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/tejassonone/leetcode/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/tejassonone/leetcode/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/tejassonone/leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
