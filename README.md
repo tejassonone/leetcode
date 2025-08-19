@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [2432-number-of-zero-filled-subarrays](https://github.com/tejassonone/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/tejassonone/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tejassonone/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3791-fruits-into-baskets-iii](https://github.com/tejassonone/leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -40,6 +41,7 @@
 | [0826-soup-servings](https://github.com/tejassonone/leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/tejassonone/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/tejassonone/leetcode/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/tejassonone/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Probability and Statistics
 |  |
 | ------- |
