@@ -10,6 +10,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tejassonone/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/tejassonone/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/tejassonone/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tejassonone/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tejassonone/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3791-fruits-into-baskets-iii](https://github.com/tejassonone/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tejassonone/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tejassonone/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tejassonone/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
 |  |
