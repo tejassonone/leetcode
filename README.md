@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tejassonone/leetcode/tree/master/0036-valid-sudoku) |
 | [0679-24-game](https://github.com/tejassonone/leetcode/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tejassonone/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/tejassonone/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -35,6 +36,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tejassonone/leetcode/tree/master/0036-valid-sudoku) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tejassonone/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tejassonone/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tejassonone/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -68,6 +70,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tejassonone/leetcode/tree/master/0036-valid-sudoku) |
 | [0900-reordered-power-of-2](https://github.com/tejassonone/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
