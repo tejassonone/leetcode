@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/tejassonone/leetcode/tree/master/0036-valid-sudoku) |
 | [0679-24-game](https://github.com/tejassonone/leetcode/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tejassonone/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tejassonone/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/tejassonone/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/tejassonone/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tejassonone/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -49,6 +50,7 @@
 | [0679-24-game](https://github.com/tejassonone/leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/tejassonone/leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/tejassonone/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tejassonone/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/tejassonone/leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/tejassonone/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Probability and Statistics
