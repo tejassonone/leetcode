@@ -54,6 +54,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/tejassonone/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/tejassonone/leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/tejassonone/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3462-vowels-game-in-a-string](https://github.com/tejassonone/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/tejassonone/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3462-vowels-game-in-a-string](https://github.com/tejassonone/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -103,4 +105,12 @@
 |  |
 | ------- |
 | [0679-24-game](https://github.com/tejassonone/leetcode/tree/master/0679-24-game) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/tejassonone/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/tejassonone/leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
